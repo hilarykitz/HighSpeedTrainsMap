@@ -1,0 +1,452 @@
+[
+  {
+    "Countries":"Spain",
+    "dep_city":"Alicante",
+    "route":"Alicante - Madrid",
+    "URL":"http://www.goeuro.com/trains_from_alicante_to_madrid"
+  },
+  {
+    "Countries":"Netherlands",
+    "dep_city":"Amsterdam",
+    "route":"Amsterdam - Antwerp",
+    "URL":"http://www.goeuro.com/trains_from_amsterdam_to_antwerp"
+  },
+  {
+    "Countries":"Netherlands",
+    "dep_city":"Amsterdam",
+    "route":"Amsterdam - Brussels",
+    "URL":"http://www.goeuro.com/trains_from_amsterdam_to_brussels"
+  },
+  {
+    "Countries":"Netherlands",
+    "dep_city":"Amsterdam",
+    "route":"Amsterdam - Paris",
+    "URL":"http://www.goeuro.com/trains_from_amsterdam_to_paris"
+  },
+  {
+    "Countries":"Netherlands",
+    "dep_city":"Amsterdam",
+    "route":"Amsterdam - Rotterdam",
+    "URL":"http://www.goeuro.com/trains_from_amsterdam_to_rotterdam"
+  },
+  {
+    "Countries":"Belgium",
+    "dep_city":"Antwerp",
+    "route":"Antwerp - Amsterdam",
+    "URL":"http://www.goeuro.com/trains_from_antwerp_to_amsterdam"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Barcelona",
+    "route":"Barcelona - Madrid",
+    "URL":"http://www.goeuro.com/trains_from_barcelona_to_madrid"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Barcelona",
+    "route":"Barcelona - Málaga",
+    "URL":"http://www.goeuro.com/trains_from_barcelona_to_malaga"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Barcelona",
+    "route":"Barcelona - Paris",
+    "URL":"http://www.goeuro.com/trains_from_barcelona_to_paris"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Barcelona",
+    "route":"Barcelona - Seville",
+    "URL":"http://www.goeuro.com/trains_from_barcelona_to_seville"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Barcelona",
+    "route":"Barcelona - Zaragoza",
+    "URL":"http://www.goeuro.com/trains_from_barcelona_to_zaragoza"
+  },
+  {
+    "Countries":"Germany",
+    "dep_city":"Berlin",
+    "route":"Berlin - Dresden",
+    "URL":"http://www.goeuro.com/trains_from_berlin_to_dresden"
+  },
+  {
+    "Countries":"Germany",
+    "dep_city":"Berlin",
+    "route":"Berlin - Hamburg",
+    "URL":"http://www.goeuro.com/trains_from_berlin_to_hamburg"
+  },
+  {
+    "Countries":"Germany",
+    "dep_city":"Berlin",
+    "route":"Berlin - Munich",
+    "URL":"http://www.goeuro.com/trains_from_berlin_to_muenchen"
+  },
+  {
+    "Countries":"Italy",
+    "dep_city":"Bologna",
+    "route":"Bologna - Rome",
+    "URL":"http://www.goeuro.com/trains_from_bologna_to_rome"
+  },
+  {
+    "Countries":"Belgium",
+    "dep_city":"Brussels",
+    "route":"Brussels - Amsterdam",
+    "URL":"http://www.goeuro.com/trains_from_brussels_to_amsterdam"
+  },
+  {
+    "Countries":"Belgium",
+    "dep_city":"Brussels",
+    "route":"Brussels - Paris",
+    "URL":"http://www.goeuro.com/trains_from_brussels_to_paris"
+  },
+  {
+    "Countries":"Germany",
+    "dep_city":"Cologne",
+    "route":"Cologne - Paris",
+    "URL":"http://www.goeuro.com/trains_from_cologne_to_paris"
+  },
+  {
+    "Countries":"Netherlands",
+    "dep_city":"The_Hague",
+    "route":"The_Hague - Rotterdam",
+    "URL":"http://www.goeuro.com/trains_from_the_hague_to_rotterdam"
+  },
+  {
+    "Countries":"Netherlands",
+    "dep_city":"The_Hague",
+    "route":"The_Hague - Utrecht",
+    "URL":"http://www.goeuro.com/trains_from_the_hague_to_utrecht"
+  },
+  {
+    "Countries":"Italy",
+    "dep_city":"Florence",
+    "route":"Florence - Milan",
+    "URL":"http://www.goeuro.com/trains_from_florence_to_milan"
+  },
+  {
+    "Countries":"Italy",
+    "dep_city":"Florence",
+    "route":"Florence - Rome",
+    "URL":"http://www.goeuro.com/trains_from_florence_to_rome"
+  },
+  {
+    "Countries":"Germany",
+    "dep_city":"Hamburg",
+    "route":"Hamburg - Berlin",
+    "URL":"http://www.goeuro.com/trains_from_hamburg_to_berlin"
+  },
+  {
+    "Countries":"Germany",
+    "dep_city":"Hamburg",
+    "route":"Hamburg - Cologne",
+    "URL":"http://www.goeuro.com/trains_from_hamburg_to_cologne"
+  },
+  {
+    "Countries":"Germany",
+    "dep_city":"Hamburg",
+    "route":"Hamburg - Munich",
+    "URL":"http://www.goeuro.com/trains_from_hamburg_to_munich"
+  },
+  {
+    "Countries":"Germany",
+    "dep_city":"Cologne",
+    "route":"Cologne - Berlin",
+    "URL":"http://www.goeuro.com/trains_from_cologne_to_berlin"
+  },
+  {
+    "Countries":"Germany",
+    "dep_city":"Cologne",
+    "route":"Cologne - Hamburg",
+    "URL":"http://www.goeuro.com/trains_from_cologne_to_hamburg"
+  },
+  {
+    "Countries":"France",
+    "dep_city":"Lille",
+    "route":"Lille - Paris",
+    "URL":"http://www.goeuro.com/trains/lille/paris"
+  },
+  {
+    "Countries":"France",
+    "dep_city":"Lyon",
+    "route":"Lyon - Marseille",
+    "URL":""
+  },
+  {
+    "Countries":"France",
+    "dep_city":"Lyon",
+    "route":"Lyon - Paris",
+    "URL":"http://www.goeuro.com/trains/lyon/paris"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Madrid",
+    "route":"Madrid - Alicante",
+    "URL":"http://www.goeuro.com/trains_from_madrid_to_alicante"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Madrid",
+    "route":"Madrid - Barcelona",
+    "URL":"http://www.goeuro.com/trains_from_madrid_to_barcelona"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Madrid",
+    "route":"Madrid - Málaga",
+    "URL":"http://www.goeuro.com/trains_from_madrid_to_malaga"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Madrid",
+    "route":"Madrid - Seville",
+    "URL":"http://www.goeuro.com/trains_from_madrid_to_seville"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Madrid",
+    "route":"Madrid - Valencia",
+    "URL":"http://www.goeuro.com/trains_from_madrid_to_valencia"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Madrid",
+    "route":"Madrid - Zaragoza",
+    "URL":"http://www.goeuro.com/trains_from_madrid_to_zaragoza"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Málaga",
+    "route":"Málaga - Barcelona",
+    "URL":"http://www.goeuro.com/trains_from_malaga_to_barcelona"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Málaga",
+    "route":"Málaga - Madrid",
+    "URL":"http://www.goeuro.com/trains_from_malaga_to_madrid"
+  },
+  {
+    "Countries":"France",
+    "dep_city":"Marseille",
+    "route":"Marseille - Lyon",
+    "URL":""
+  },
+  {
+    "Countries":"France",
+    "dep_city":"Marseille",
+    "route":"Marseille - Paris",
+    "URL":"http://www.goeuro.com/trains/marseille/paris"
+  },
+  {
+    "Countries":"Italy",
+    "dep_city":"Milan",
+    "route":"Milan - Rome",
+    "URL":"http://www.goeuro.com/trains_from_milan_to_rome"
+  },
+  {
+    "Countries":"Italy",
+    "dep_city":"Milan",
+    "route":"Milan - Venice",
+    "URL":"http://www.goeuro.com/trains_from_milan_to_venice"
+  },
+  {
+    "Countries":"Italy",
+    "dep_city":"Milan",
+    "route":"Milan - Florence",
+    "URL":"http://www.goeuro.com/trains_from_milan_to_florence"
+  },
+  {
+    "Countries":"Italy",
+    "dep_city":"Milan",
+    "route":"Milan - Naples",
+    "URL":"http://www.goeuro.com/trains_from_milan_to_naples"
+  },
+  {
+    "Countries":"Italy",
+    "dep_city":"Milan",
+    "route":"Milan - Turin",
+    "URL":"http://www.goeuro.com/trains_from_milan_to_turin"
+  },
+  {
+    "Countries":"Germany",
+    "dep_city":"Munich",
+    "route":"Munich - Berlin",
+    "URL":"http://www.goeuro.com/trains_from_munich_to_berlin"
+  },
+  {
+    "Countries":"Germany",
+    "dep_city":"Munich",
+    "route":"Munich - Hamburg",
+    "URL":"http://www.goeuro.com/trains_from_munich_to_hamburg"
+  },
+  {
+    "Countries":"Italy",
+    "dep_city":"Naples",
+    "route":"Naples - Milan",
+    "URL":"http://www.goeuro.com/trains_from_naples_to_milan"
+  },
+  {
+    "Countries":"Italy",
+    "dep_city":"Naples",
+    "route":"Naples - Rome",
+    "URL":"http://www.goeuro.com/trains_from_naples_to_rome"
+  },
+  {
+    "Countries":"France",
+    "dep_city":"Paris",
+    "route":"Paris - Amsterdam",
+    "URL":"http://www.goeuro.com/trains_from_paris_to_amsterdam"
+  },
+  {
+    "Countries":"France",
+    "dep_city":"Paris",
+    "route":"Paris - Barcelona",
+    "URL":"http://www.goeuro.com/trains_from_paris_to_barcelona"
+  },
+  {
+    "Countries":"France",
+    "dep_city":"Paris",
+    "route":"Paris - Brussels",
+    "URL":"http://www.goeuro.com/trains_from_paris_to_brussels"
+  },
+  {
+    "Countries":"France",
+    "dep_city":"Paris",
+    "route":"Paris - Cologne",
+    "URL":"http://www.goeuro.com/trains_from_paris_to_cologne"
+  },
+  {
+    "Countries":"France",
+    "dep_city":"Paris",
+    "route":"Paris - Lille",
+    "URL":"http://www.goeuro.com/trains/paris/lille"
+  },
+  {
+    "Countries":"France",
+    "dep_city":"Paris",
+    "route":"Paris - Lyon",
+    "URL":"http://www.goeuro.com/trains/paris/lyon"
+  },
+  {
+    "Countries":"France",
+    "dep_city":"Paris",
+    "route":"Paris - Marseille",
+    "URL":"http://www.goeuro.com/trains/paris/marseille"
+  },
+  {
+    "Countries":"Italy",
+    "dep_city":"Rome",
+    "route":"Rome - Bologna",
+    "URL":"http://www.goeuro.com/trains_from_rome_to_bologna"
+  },
+  {
+    "Countries":"Italy",
+    "dep_city":"Rome",
+    "route":"Rome - Florence",
+    "URL":"http://www.goeuro.com/trains_from_rome_to_florence"
+  },
+  {
+    "Countries":"Italy",
+    "dep_city":"Rome",
+    "route":"Rome - Naples",
+    "URL":"http://www.goeuro.com/trains_from_rome_to_naples"
+  },
+  {
+    "Countries":"Italy",
+    "dep_city":"Rome",
+    "route":"Rome - Venice",
+    "URL":"http://www.goeuro.com/trains_from_rome_to_venice"
+  },
+  {
+    "Countries":"Italy",
+    "dep_city":"Rome",
+    "route":"Rome - Milan",
+    "URL":"http://www.goeuro.com/trains_from_rome_to_milan"
+  },
+  {
+    "Countries":"Netherlands",
+    "dep_city":"Rotterdam",
+    "route":"Rotterdam - Amsterdam",
+    "URL":"http://www.goeuro.com/trains_from_rotterdam_to_amsterdam"
+  },
+  {
+    "Countries":"Netherlands",
+    "dep_city":"Rotterdam",
+    "route":"Rotterdam - The_Hague",
+    "URL":"http://www.goeuro.com/trains_from_rotterdam_to_the_hague"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Seville",
+    "route":"Seville - Barcelona",
+    "URL":"http://www.goeuro.com/trains_from_seville_to_barcelona"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Seville",
+    "route":"Seville - Madrid",
+    "URL":"http://www.goeuro.com/trains_from_seville_to_madrid"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Seville",
+    "route":"Seville - Valencia",
+    "URL":"http://www.goeuro.com/trains_from_seville_to_valencia"
+  },
+  {
+    "Countries":"Italy",
+    "dep_city":"Turin",
+    "route":"Turin - Milan",
+    "URL":"http://www.goeuro.com/trains_from_turin_to_milan"
+  },
+  {
+    "Countries":"Italy",
+    "dep_city":"Turin",
+    "route":"Turin - Rome",
+    "URL":"http://www.goeuro.com/trains_from_turin_to_rome"
+  },
+  {
+    "Countries":"Netherlands",
+    "dep_city":"Utrecht",
+    "route":"Utrecht - The_Hague",
+    "URL":"http://www.goeuro.com/trains_from_utrecht_to_the_hague"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Valencia",
+    "route":"Valencia - Madrid",
+    "URL":"http://www.goeuro.com/trains_from_valencia_to_madrid"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Valencia",
+    "route":"Valencia - Seville",
+    "URL":"http://www.goeuro.com/trains_from_valencia_to_seville"
+  },
+  {
+    "Countries":"Italy",
+    "dep_city":"Venice",
+    "route":"Venice - The_Hague",
+    "URL":"http://www.goeuro.com/trains_from_venice_to_milan"
+  },
+  {
+    "Countries":"Italy",
+    "dep_city":"Venice",
+    "route":"Venice - Rome",
+    "URL":"http://www.goeuro.com/trains_from_venice_to_rome"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Zaragoza",
+    "route":"Zaragoza - Barcelona",
+    "URL":"http://www.goeuro.com/trains_from_zaragoza_to_barcelona"
+  },
+  {
+    "Countries":"Spain",
+    "dep_city":"Zaragoza",
+    "route":"Zaragoza - Madrid",
+    "URL":"http://www.goeuro.com/trains_from_zaragoza_to_madrid"
+  }
+]
